@@ -4,10 +4,4 @@ Covid19 Hotspot is not responsible for the accuracy of this crowdsourced data an
 
 
 
-#### Testing  submitted at 2020/04/06 22:44:48 PDT
-
-
-
-
-
 
